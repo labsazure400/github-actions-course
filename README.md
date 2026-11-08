@@ -33,8 +33,7 @@ Who this course is for:
 
 Samples for Github Actions DevOps pipelines and workflows.
 
-[![CI](https://github.com/labsazure400/github-actions-course/actions/workflows/main.yml/badge.svg)]
-(https://github.com/labsazure400/github-actions-course/actions/workflows/main.yml)
+[![CI](https://github.com/labsazure400/github-actions-course/actions/workflows/main.yml/badge.svg)](https://github.com/labsazure400/github-actions-course/actions/workflows/main.yml)
 
 [![020-manual-workflow](https://github.com/HoussemDellai/github-actions-course/actions/workflows/020-manual-input-workflow.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/020-manual-input-workflow.yml)
 
