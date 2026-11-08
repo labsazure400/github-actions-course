@@ -4,9 +4,9 @@ name: CI
 
 on:
   push:
-    branches: [ main ]
+    branches: none #[ main ]
   pull_request:
-    branches: [ main ]
+    branches: none #[ main ]
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
